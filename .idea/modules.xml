@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/compuwork.iml" filepath="$PROJECT_DIR$/compuwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compuwork-actividad.iml" filepath="$PROJECT_DIR$/compuwork-actividad.iml" />
     </modules>
   </component>
 </project>
